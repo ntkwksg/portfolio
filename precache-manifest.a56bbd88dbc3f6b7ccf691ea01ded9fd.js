@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/java.981bce2a.png"
   },
   {
-    "revision": "af83d8eb07bd9cb88e3e",
+    "revision": "14b84ee92d66d3b0c8ab",
     "url": "/portfolio/static/css/main.5f6a07b8.chunk.css"
   },
   {
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/rails.4ea2b3ce.jpg"
   },
   {
-    "revision": "af83d8eb07bd9cb88e3e",
-    "url": "/portfolio/static/js/main.c2198e2e.chunk.js"
+    "revision": "14b84ee92d66d3b0c8ab",
+    "url": "/portfolio/static/js/main.7cb84ff2.chunk.js"
   },
   {
     "revision": "d14e4fd3c8b856f05612643d6773e497",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/php.69d7422c.png"
   },
   {
-    "revision": "902f5d4b2c368bc5d58043fd073cadaf",
+    "revision": "40635aa75aa11150130d71510ba982fc",
     "url": "/portfolio/index.html"
   }
 ];
